@@ -23,9 +23,9 @@ WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Dashboard')
 
-WebUI.verifyElementPresent(findTestObject('button_side_menu'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/button_side_menu'), 0)
 
-WebUI.click(findTestObject('button_side_menu'))
+WebUI.click(findTestObject('Object Repository/button_side_menu'))
 
 WebUI.comment('Daftar surat tugas')
 
