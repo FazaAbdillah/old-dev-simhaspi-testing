@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_laporan_hasil_audit</name>
+   <tag></tag>
+   <elementGuidId>12456a13-ed68-472a-a9fc-26cc53e4e7fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(9) > div.btn-group > ul.dropdown-menu.dropdown-menu-right > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[9]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>111584f5-4c2c-4b41-902b-1d582905f4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3830e006-b7b9-46c1-942d-b9779378095d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://10.61.3.37/PNM-SPI/member/laporan_hasil_audit/home/insert/ST240313007</value>
+      <webElementGuid>87f98b96-56ab-4e74-956e-293e6d138a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan Hasil Audit</value>
+      <webElementGuid>59856af3-4604-48b6-8370-4e4d3efb1a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[9]/div[@class=&quot;btn-group&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[1]/a[1]</value>
+      <webElementGuid>8ae6446e-68cd-4b4e-a1d5-21f610b45248</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[9]/div/ul/li/a</value>
+      <webElementGuid>21a97a15-2bf6-4a51-86a6-227d26795db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Laporan Hasil Audit')])[3]</value>
+      <webElementGuid>00dfbe91-67a0-4e79-a779-bfe9e6a93d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siap di Print'])[1]/following::a[1]</value>
+      <webElementGuid>12342e5e-ea5d-4408-8726-065d71284c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ULAMM MANUKAN SURABAYA'])[1]/following::a[1]</value>
+      <webElementGuid>525ac377-8255-4250-98f2-f597c458d656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak'])[1]/preceding::a[1]</value>
+      <webElementGuid>f3e9f4ac-dd8b-4f73-9329-3dcd6fb2483c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ST-085/PNM-AOV-OPS/II/2024'])[1]/preceding::a[2]</value>
+      <webElementGuid>46b81126-4378-4097-b5e3-99fdb4b3200c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://10.61.3.37/PNM-SPI/member/laporan_hasil_audit/home/insert/ST240313007']</value>
+      <webElementGuid>3e28f75b-271d-498e-81bc-618874ef93f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/div/ul/li/a</value>
+      <webElementGuid>c65fedbc-af6f-418e-bcdc-42ee298ee635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://10.61.3.37/PNM-SPI/member/laporan_hasil_audit/home/insert/ST240313007' and (text() = 'Laporan Hasil Audit' or . = 'Laporan Hasil Audit')]</value>
+      <webElementGuid>87e4a664-760c-40e6-9dc6-9f28e3377f56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

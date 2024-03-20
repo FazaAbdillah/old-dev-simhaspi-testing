@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_laporan_hasil_audit</name>
+   <tag></tag>
+   <elementGuidId>b00de6a5-106b-48ce-9024-9f1bc1916a25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.open > a.nav-submenu > span.sidebar-mini-hide</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-scroll']/div/div[2]/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a7a2475-6847-4358-85ca-841fc0f53a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-mini-hide</value>
+      <webElementGuid>7040f460-c378-4e40-82d9-5928eabb3e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan Hasil Audit</value>
+      <webElementGuid>0a5f4e57-6822-4120-adc0-9f277a2a8471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-scroll&quot;)/div[@class=&quot;sidebar-content&quot;]/div[@class=&quot;side-content&quot;]/ul[@class=&quot;nav-main&quot;]/li[@class=&quot;open&quot;]/a[@class=&quot;nav-submenu&quot;]/span[@class=&quot;sidebar-mini-hide&quot;]</value>
+      <webElementGuid>bb155c77-ca8f-4ed5-834c-18ffd950a09a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-scroll']/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>1e73f708-9072-4906-8064-fcafef1bfd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori (Surat Tugas)'])[1]/following::span[1]</value>
+      <webElementGuid>3aec3345-c80e-456d-ae63-cae43c32d040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siap di Print (Surat Tugas)'])[1]/following::span[1]</value>
+      <webElementGuid>ce68c5c6-ba92-43bd-a8e8-841d64923be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Laporan Hasil Audit'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c7984df-33d1-42bd-8c8c-65e18d61d441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Temuan'])[1]/preceding::span[1]</value>
+      <webElementGuid>64009ba3-bc2b-4ea7-b980-3d3316de3a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laporan Hasil Audit']/parent::*</value>
+      <webElementGuid>c4cd9d22-1613-4177-a74b-6dab867fad3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>07df6220-dcae-4778-9b45-b65bf86d4d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Laporan Hasil Audit' or . = 'Laporan Hasil Audit')]</value>
+      <webElementGuid>51126735-2e41-4004-a7b6-55cf38c430ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
