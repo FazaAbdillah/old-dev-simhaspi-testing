@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_persetujuan_surat_tugas</name>
+   <tag></tag>
+   <elementGuidId>afd591bd-b0c9-49ff-88ca-3f6af951e4ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.open > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-scroll']/div/div[2]/ul/li/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Menunggu Persetujuan (Surat Tugas)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1100a39a-42fd-4de7-968e-6c22e82bfae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://10.61.3.37/PNM-SPI/member/surat_tugas/</value>
+      <webElementGuid>94d6ca7e-aedc-4a75-a596-6dbc8f40ae2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menunggu Persetujuan (Surat Tugas)</value>
+      <webElementGuid>e97d025a-f5fb-4be6-a4a6-be76036243dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-scroll&quot;)/div[@class=&quot;sidebar-content&quot;]/div[@class=&quot;side-content&quot;]/ul[@class=&quot;nav-main&quot;]/li[@class=&quot;open&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>fea4df21-f944-4eb2-98e4-1f351fd6e726</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-scroll']/div/div[2]/ul/li/ul/li/a</value>
+      <webElementGuid>fb7b496a-9215-4c67-9aef-f7404f1cf912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Menunggu Persetujuan (Surat Tugas)')]</value>
+      <webElementGuid>793e9fc2-e4ad-4e44-8cd6-7c7e2db2da3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Tugas'])[1]/following::a[1]</value>
+      <webElementGuid>4f5220ab-3b92-468f-b387-2bef44a205cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept Surat Tugas Success'])[20]/following::a[4]</value>
+      <webElementGuid>69c6605a-b52b-409a-a506-c928f63ed17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siap di Print (Surat Tugas)'])[1]/preceding::a[1]</value>
+      <webElementGuid>85397c07-aabe-48fb-85c1-94a3498efed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori (Surat Tugas)'])[1]/preceding::a[2]</value>
+      <webElementGuid>e3660abf-628f-4db2-97e9-46eff94deb10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Menunggu Persetujuan (Surat Tugas)']/parent::*</value>
+      <webElementGuid>e07cdcad-03dd-4045-9dfb-119e587f49c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://10.61.3.37/PNM-SPI/member/surat_tugas/']</value>
+      <webElementGuid>186fe657-e6b6-4444-bd3e-b416c408fcaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a</value>
+      <webElementGuid>6dac0659-3fbb-40c0-acc1-deec754a28e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://10.61.3.37/PNM-SPI/member/surat_tugas/' and (text() = 'Menunggu Persetujuan (Surat Tugas)' or . = 'Menunggu Persetujuan (Surat Tugas)')]</value>
+      <webElementGuid>f478b3ac-2545-46da-b3ee-32b7ee4431d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

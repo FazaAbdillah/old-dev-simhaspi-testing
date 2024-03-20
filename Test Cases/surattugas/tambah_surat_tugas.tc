@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Form surat tugas admin - Melakukan tambah surat tugas dengan memilih tipe audit single</description>
+   <name>tambah_surat_tugas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f3c2f0d-576d-4921-bee5-63467fb64f55</testCaseGuid>
+</TestCaseEntity>

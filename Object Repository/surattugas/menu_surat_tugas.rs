@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_surat_tugas</name>
+   <tag></tag>
+   <elementGuidId>e715ff8e-baed-4f64-87b2-da80897cca06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-submenu > span.sidebar-mini-hide</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidebar-scroll']/div/div[2]/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;  Surat Tugas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e4a5284-2625-4911-8ba3-8cfc12dda953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-mini-hide</value>
+      <webElementGuid>edab5abc-de06-418a-b759-6ed5eca54300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Surat Tugas</value>
+      <webElementGuid>d871fc8a-6a34-4778-9d51-dbcbbe4ffea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-scroll&quot;)/div[@class=&quot;sidebar-content&quot;]/div[@class=&quot;side-content&quot;]/ul[@class=&quot;nav-main&quot;]/li[1]/a[@class=&quot;nav-submenu&quot;]/span[@class=&quot;sidebar-mini-hide&quot;]</value>
+      <webElementGuid>cdf5589f-3a74-4318-837e-afaa68c46df2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-scroll']/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>f1785a4b-2159-48f0-b425-95845aa40099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept Surat Tugas Success'])[20]/following::span[2]</value>
+      <webElementGuid>ec7a4fae-3756-4d0b-a074-8fc9dcbac890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accept Surat Tugas Success'])[19]/following::span[2]</value>
+      <webElementGuid>40422c9a-897a-4c2b-aa53-858bf7832028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Persetujuan (Surat Tugas)'])[1]/preceding::span[1]</value>
+      <webElementGuid>8bbb27d8-d15b-48be-b5bc-729d1e2e82e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siap di Print (Surat Tugas)'])[1]/preceding::span[1]</value>
+      <webElementGuid>395e9b0b-b6fb-40ee-9865-76d9bc60d02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Surat Tugas']/parent::*</value>
+      <webElementGuid>fe6569a5-fdee-4c66-8cb8-846ca815a82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span</value>
+      <webElementGuid>36af03e5-2fde-4e93-95de-71530b0c0d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Surat Tugas' or . = 'Surat Tugas')]</value>
+      <webElementGuid>1978a196-a637-4816-a4e8-8d6ac4905629</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
