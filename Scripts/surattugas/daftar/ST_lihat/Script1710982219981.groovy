@@ -21,17 +21,29 @@ WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Dashboard')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/button_side_menu'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/sidemenu/button_side_menu'), 0)
 
-WebUI.click(findTestObject('Object Repository/button_side_menu'))
+WebUI.click(findTestObject('Object Repository/sidemenu/button_side_menu'))
 
-WebUI.comment('Surat Tugas Kategori')
+WebUI.comment('Cetak surat tugas')
 
 WebUI.verifyElementPresent(findTestObject('sidemenu/surattugas/menu_surat_tugas'), 0)
 
 WebUI.click(findTestObject('sidemenu/surattugas/menu_surat_tugas'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('sidemenu/surattugas/menu_surat_tugas_kategori'), 0)
+WebUI.verifyElementPresent(findTestObject('sidemenu/surattugas/menu_print_surat'), 0)
 
-WebUI.click(findTestObject('sidemenu/surattugas/menu_surat_tugas_kategori'))
+WebUI.click(findTestObject('sidemenu/surattugas/menu_print_surat'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.comment('Halaman cetak surat tugas')
+
+WebUI.verifyElementPresent(findTestObject('surattugas/cetak/btn_item_table_lihatlaporan'), 0)
+
+WebUI.click(findTestObject('surattugas/cetak/btn_item_table_lihatlaporan'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('surattugas/cetak/btn_laporan_hasil_audit'), 0)
+
+WebUI.click(findTestObject('surattugas/cetak/btn_laporan_hasil_audit'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
 

@@ -17,15 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('http://ssowebservice.pnm.co.id/login.php?source=http://10.61.3.37/PNM-SPI/member/login/validateLogin&app_code=SPI')
+WebUI.comment('Dashboard')
 
-WebUI.setText(findTestObject('Object Repository/login/textfield_username'), 'kromero0405')
+WebUI.verifyElementPresent(findTestObject('Object Repository/sidemenu/button_side_menu'), 0)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/login/textfield_password'), 'i779crjIIzxZSUMgnCdkJA==')
+WebUI.click(findTestObject('Object Repository/sidemenu/button_side_menu'))
 
-WebUI.click(findTestObject('Object Repository/login/button_submit_login'))
+WebUI.comment('Surat Tugas Kategori')
 
-WebUI.verifyElementPresent(findTestObject('dashboard/div_dashboard'), 0)
+WebUI.verifyElementPresent(findTestObject('sidemenu/surattugas/menu_surat_tugas'), 0)
+
+WebUI.click(findTestObject('sidemenu/surattugas/menu_surat_tugas'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('sidemenu/surattugas/menu_surat_tugas_kategori'), 0)
+
+WebUI.click(findTestObject('sidemenu/surattugas/menu_surat_tugas_kategori'))
 

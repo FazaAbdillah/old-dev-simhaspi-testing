@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>surat_tugas_lihat_laporan</name>
+   <name>test</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a18008a9-0ad3-47b5-a24b-61871d5ded3a</testCaseGuid>
+   <testCaseGuid>3d4d1b39-976c-420c-a48a-424e7ac9a0d1</testCaseGuid>
 </TestCaseEntity>

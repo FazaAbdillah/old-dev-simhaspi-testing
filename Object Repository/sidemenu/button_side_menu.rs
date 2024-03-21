@@ -6,12 +6,12 @@
    <elementGuidId>0b023c59-66d4-4bd0-9c24-ae024c2959ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[7]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.hidden-md.hidden-lg > button.btn.btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
