@@ -23,9 +23,11 @@ WebUI.callTestCase(findTestCase('login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('Dashboard')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/button_side_menu'), 0)
+WebUI.verifyElementPresent(findTestObject('button_side_menu'), 0)
 
-WebUI.click(findTestObject('Object Repository/button_side_menu'))
+WebUI.click(findTestObject('button_side_menu'))
+
+WebUI.acceptAlert()
 
 WebUI.comment('Daftar surat tugas')
 
@@ -103,5 +105,5 @@ WebUI.selectOptionByIndex(findTestObject('surattugas/dropdown_ketua_tim'), 1)
 
 WebUI.verifyElementPresent(findTestObject('surattugas/textfield_catatan'), 0)
 
-WebUI.setText(findTestObject('surattugas/textfield_catatan'), 'catatan')
+WebUI.closeBrowser()
 
